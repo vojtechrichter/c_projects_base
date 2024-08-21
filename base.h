@@ -376,5 +376,4 @@ char_is_slash(U8 c)
     return(c == '/' || c == '\\');
 }
 
-
 #endif // BASE_H
